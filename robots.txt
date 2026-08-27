@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /*?*page=cart
+Disallow: /*?*page=wishlist
+Disallow: /*?*page=profile
+Disallow: /*?*page=orders
+Disallow: /*?*page=proof
+Disallow: /*?*page=chat
+Disallow: /*?*page=cartpay
+
+Sitemap: https://premium-courses-vault.vercel.app/sitemap.xml
