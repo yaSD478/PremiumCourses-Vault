@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://premium-courses-vault.vercel.app/sitemap.xml
